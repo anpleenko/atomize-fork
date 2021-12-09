@@ -2,7 +2,7 @@
   "name": "atomize-fork",
   "displayName": "Atomize Fork (Atom One Dark theme)",
   "description": "A detailed and accurate Atom One Dark Theme",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "publisher": "anpleenko",
   "icon": "images/icon.png",
   "author": {
@@ -43,13 +43,13 @@
     "**/*.{js,jsx,ts,tsx,json,md,yml}": "npm run fix"
   },
   "bugs": {
-    "url": "https://github.com/emroussel/atomize/issues"
+    "url": "https://github.com/anpleenko/atomize/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/emroussel/atomize.git"
+    "url": "https://github.com/anpleenko/atomize.git"
   },
-  "homepage": "https://github.com/emroussel/atomize/blob/main/README.md",
+  "homepage": "https://github.com/anpleenko/atomize/blob/main/README.md",
   "devDependencies": {
     "husky": "^7.0.0",
     "lint-staged": "^12.1.2",
