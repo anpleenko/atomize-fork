@@ -807,6 +807,25 @@
       "settings": {
         "foreground": "#56B6C2"
       }
+    },
+
+    // Italic
+    {
+      "name": "One Dark italic",
+      "scope": [
+        "comment",
+        "entity.other.attribute-name",
+        "keyword",
+        "markup.underline.link",
+        "storage.modifier",
+        "storage.type",
+        "string.url",
+        "variable.language.super",
+        "variable.language.this"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
     }
   ]
 }
