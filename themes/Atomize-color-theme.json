@@ -813,11 +813,8 @@
     {
       "name": "One Dark italic",
       "scope": [
-        "comment",
-        "entity.other.attribute-name",
-        "keyword",
-        "markup.underline.link",
-        "storage.modifier",
+        "keyword.control.import",
+        "keyword.control.export",
         "storage.type",
         "string.url",
         "variable.language.super",
