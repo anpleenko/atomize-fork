@@ -52,7 +52,7 @@
   "homepage": "https://github.com/anpleenko/atomize/blob/main/README.md",
   "devDependencies": {
     "husky": "^8.0.3",
-    "lint-staged": "^13.2.2",
+    "lint-staged": "^14.0.0",
     "prettier": "^2.8.8"
   }
 }
